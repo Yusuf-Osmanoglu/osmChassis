@@ -55,7 +55,7 @@ OsmChassis, kafeler için geliştirilmiş modern ve kullanıcı dostu bir kasa y
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/yourusername/osmChassis.git
+git clone https://github.com/Yusuf-Osmanoglu/osmChassis)
 ```
 
 2. Proje dizinine gidin:
